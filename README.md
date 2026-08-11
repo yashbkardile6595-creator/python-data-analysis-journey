@@ -115,4 +115,3 @@ python-data-analysis-journey/
 * Jupyter Notebook
 
 
-**Learning in public 🚀 | Building consistently, one step at a time.**
