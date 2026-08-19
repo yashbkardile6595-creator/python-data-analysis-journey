@@ -50,9 +50,9 @@ Topics covered:
 * Working with sales data
 * Practical NumPy assignments
 
-Notebook:**  NumPy Operations.ipynb`
+Notebook:  NumPy Operations.ipynb`
 
----
+
 
  ✅ Pandas — Data Manipulation
 
@@ -86,9 +86,8 @@ Topics covered:
 * `between()`
 * Selecting data using `loc[]`
 
-Notebook:** `Data Manipulation with Pandas.ipynb`
+Notebook: `Data Manipulation with Pandas.ipynb`
 
----
 
 ## 📂 Repository Structure
 
