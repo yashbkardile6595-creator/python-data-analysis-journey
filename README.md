@@ -1,7 +1,7 @@
- Python Data Analysis Journey 
+ Python Data Analysis 
 
 
-📚 Learning Progress
+📚 Learning 
 
 ✅ NumPy : Basics
 I practiced the fundamentals of NumPy arrays.
