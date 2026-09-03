@@ -102,11 +102,9 @@ python-data-analysis-journey/
 │   └── Data Manipulation with Pandas.ipynb
 │
 └── README.md
-```
 
----
 
- 🛠️ Technologies Used
+ 
 
 * Python
 * NumPy
